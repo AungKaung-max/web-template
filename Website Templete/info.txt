@@ -1,0 +1,53 @@
+﻿Home
+About
+Service
+Skill
+Portfolio
+Testimonial
+Partner
+Contact
+
+Hello World!
+Guiding you through the digital landscape
+
+
+I'm a Lead UX & UI designer based in Yangon
+I design and develop services for customers of all sizes, specializing in creating stylish, modern websites, web services and online stores.
+My passion is to design digital user experiences through the bold interface and meaningful interactions. Check out my PORTFOLIO
+
+
+
+What I’m Doing
+I love what I do. I take great pride in what I do.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+
+My Portfolio
+I love what I do. I take great pride in what I do.
+
+
+What People Say?
+I love what I do. I take great pride in what I do.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+
+Trusted byGreat People
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+
+
+
+Have a new project? Let's work on it together. We’re always looking to collaborate with local sponsors who align with our values. Connect with us at hello@email.com or drop us a line in the form!
+
+Phone :
++95 942 166 444
+
+Address :
+No.10, Room 1/B,
+Hleden Rd Kamayut, Yangon.
+
+Email :
+email@youraddress.com
+
+© 2018 Intelligent. All Rights Reserved.
